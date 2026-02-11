@@ -160,10 +160,12 @@ export default function Home() {
               >
                 Invia messaggio
               </button>
-            </form>
-
-            <p className="text-xs text-gray-500 mt-4">
-              Nota: senza l’azione Formspree il pulsante non invierà il messaggio.
+            <a
+  href="mailto:gagliardifederica02@gmail.com"
+  className="rounded-2xl px-6 py-4 text-base w-full shadow-sm bg-gray-900 text-white hover:opacity-90 text-center block"
+>
+  Scrivimi una email
+</a>
             </p>
           </div>
         </div>
