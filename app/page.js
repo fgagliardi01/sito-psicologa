@@ -9,6 +9,7 @@ export default function Home() {
             <a href="#approccio">Approccio</a>
             <a href="#contatti">Contatti</a>
             <a href="#privacy">Privacy</a>
+  <a href="http://www.miodottore.it/federica-gagliardi/psicologo-clinico/roma?utm_source=widget-doctor-691910&utm_medium=link" rel="nofollow" target="_blank">Prenota una visita</a>
           </div>
         </div>
       </header>
