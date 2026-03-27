@@ -17,7 +17,7 @@ export default function Home() {
       <main className="container">
         <section className="hero">
           <div>
-            <h1>Psicologa clinica online</h1>
+            <h1>Psicologo clinica online</h1>
 
             <p className="sub">
               Accompagno adolescenti e adulti nei momenti di difficoltà emotiva,
